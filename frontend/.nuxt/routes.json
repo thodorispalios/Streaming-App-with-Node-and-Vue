@@ -1,0 +1,16 @@
+[
+  {
+    "name": "player-name",
+    "path": "/player/:name?",
+    "component": "/Users/theo/Desktop/streaming-app/frontend/pages/player/_name.vue",
+    "chunkName": "pages/player/_name",
+    "_name": "_0248a47f"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/theo/Desktop/streaming-app/frontend/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_07e7c39f"
+  }
+]
